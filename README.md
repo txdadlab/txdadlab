@@ -5,5 +5,7 @@ Just getting started here — plan to keep publishing security tools, AI experim
 What's here so far
 
 IP-Reputation-Checker — Python tool for querying IP reputation across AbuseIPDB, VirusTotal, and IPQualityScore APIs
+
 Simple-LSTM-AI-Model-Pytorch — LSTM sentiment classifier built with PyTorch, exploring deep learning for NLP
+
 Prompt-Injection-Lab — CTF-style web app for practicing prompt injection attacks against a local LLM, with 7 challenge levels and progressively stronger defenses
