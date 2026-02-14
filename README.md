@@ -1,11 +1,15 @@
 ## Hi there 👋
 
-Cybersecurity engineer by day, tinkering with AI and home lab projects after hours.
-Just getting started here — plan to keep publishing security tools, AI experiments, and whatever home automation integrations I end up building. More repos on the way.
-What's here so far
+Cybersecurity engineer building security tools, AI experiments, and home lab projects in the open.
 
-IP-Reputation-Checker — Python tool for querying IP reputation across AbuseIPDB, VirusTotal, and IPQualityScore APIs
+### Projects
 
-Simple-LSTM-AI-Model-Pytorch — LSTM sentiment classifier built with PyTorch, exploring deep learning for NLP
+**[npx-ray](https://github.com/txdadlab/npx-ray)** — npm package security scanner that audits source code, detects obfuscation, and flags supply chain risks before you install. Static analysis, entropy detection, secret scanning, typosquatting checks, and risk scoring — all local, no external APIs.
 
-Prompt-Injection-Lab — CTF-style web app for practicing prompt injection attacks against a local LLM, with 7 challenge levels and progressively stronger defenses
+**[prompt-injection-lab](https://github.com/txdadlab/prompt-injection-lab)** — CTF-style web app for practicing prompt injection attacks against a local LLM. 7 challenge levels with progressively stronger defenses.
+
+**[IP-Reputation-Checker](https://github.com/txdadlab/IP-Reputation-Checker)** — Python tool for querying IP reputation across AbuseIPDB, VirusTotal, and IPQualityScore APIs.
+
+**[Simple-LSTM-AI-Model-Pytorch](https://github.com/txdadlab/Simple-LSTM-AI-Model-Pytorch)** — LSTM sentiment classifier built with PyTorch, exploring deep learning for NLP.
+
+**[macos-blank-screensaver](https://github.com/txdadlab/macos-blank-screensaver)** — Blank (black) screensaver for macOS.
