@@ -12,5 +12,4 @@ Cybersecurity engineer building security tools, AI experiments, and home lab pro
 
 **[Simple-LSTM-AI-Model-Pytorch](https://github.com/txdadlab/Simple-LSTM-AI-Model-Pytorch)** — LSTM sentiment classifier built with PyTorch, exploring deep learning for NLP.
 
-**[macos-blank-screensaver](https://github.com/txdadlab/macos-blank-screensaver)** — Blank (black) screensaver for macOS.
 
